@@ -1,0 +1,15 @@
+button{
+    color: coral;
+    border-radius: 5px;
+    padding: 25px;
+    border-color: cadetblue;
+    
+}
+
+button:hover{
+    background-color: beige;
+}
+
+
+
+
